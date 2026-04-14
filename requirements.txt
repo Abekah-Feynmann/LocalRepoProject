@@ -1,3 +1,11 @@
-django
-djangorestframework
-environs
+asgiref==3.11.1
+Django==6.0.4
+djangorestframework==3.17.1
+environs==15.0.1
+gunicorn==25.3.0
+marshmallow==4.3.0
+packaging==26.0
+python-dotenv==1.2.2
+sqlparse==0.5.5
+tzdata==2026.1
+whitenoise==6.12.0
